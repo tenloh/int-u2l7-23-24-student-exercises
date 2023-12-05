@@ -3,7 +3,7 @@
 /* Code Along, Part 1 */
 
 /* 1. Check the ratio of the background color and the color of the text.
-    We want the ratio 4:1 or higher. What is it? */
+    We want the ratio 4.5:1 or higher. What is it? */
 
 
 /* 2. Change the background color so that it contrasts well with the text. 
@@ -13,7 +13,7 @@
 /* 3. Recheck the ratio now. Afterwards, go to the HTML file.*/
 
 body {
-    background-color: #d93f3f;
+    background-color: #000000;
     color: #eb2626;
 }
 
